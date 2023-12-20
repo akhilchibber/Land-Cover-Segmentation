@@ -3,6 +3,6 @@ Automating Land Use and Land Cover Mapping Using Computer Vision and Satellite I
 
 ## Contact
 
-Author - Akhil Chhibber
+Author: Akhil Chhibber
 
 LinkedIn: https://www.linkedin.com/in/akhilchhibber/
