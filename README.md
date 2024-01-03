@@ -1,7 +1,7 @@
 # Land-Cover-Segmentation
 Automating Land Use and Land Cover Mapping Using Computer Vision and Satellite Imagery, Cameroon
 <p align="center">
-  <img src="https://github.com/akhilchibber/Deforestation-Detection/blob/main/DEFORESTATION_DETECTION.jpg?raw=true" alt="earthml Logo">
+  <img src="https://github.com/akhilchibber/Land-Cover-Segmentation/blob/main/LULC_SEGMENTATION.png?raw=true" alt="earthml Logo">
 </p>
 
 ## Contributing
